@@ -1,2 +1,2 @@
 # funny-cat
-Estaba recreando una <a src="https://i.imgur.com/164olpz.jpg"/>Imagen</a> que ví en mi libro de ingles
+Estaba recreando una <a href="https://imgur.com/164olpz">Imagen</a> Que ví en mi libro de ingles
